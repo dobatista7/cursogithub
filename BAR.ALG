@@ -1,11 +1,11 @@
 Algoritmo "bar"
-// Disciplina   : [Lógica de Programação e Algoritmos Expert]
-// Professor   : Dr. Nélio Alves 
-// Descrição   : Aqui você descreve o que o programa faz! (função)
+// Disciplina   : [Lï¿½gica de Programaï¿½ï¿½o e Algoritmos Expert]
+// Professor   : Dr. Nï¿½lio Alves 
+// Descriï¿½ï¿½o   : Aqui vocï¿½ descreve o que o programa faz! (funï¿½ï¿½o)
 // Autor(a)    : Douglas Oliveira Batista
 // Data atual  : 16/03/2024
 Var
-// Seção de Declarações das variáveis 
+// Seï¿½ï¿½o de Declaraï¿½ï¿½es das variï¿½veis 
 
          cerveja, refrigerante, espetinho: inteiro
          consumo,couvert,ingresso,valorPagar : real
@@ -13,9 +13,9 @@ Var
 
 
 Inicio
-// Seção de Comandos, procedimento, funções, operadores, etc... 
+// Seï¿½ï¿½o de Comandos, procedimento, funï¿½ï¿½es, operadores, etc... 
 
-    escreva("SEXO:  ")
+    escreva("sexo:  ")
     leia(sexo)
     escreva("Quantidade de cervejas:  ")
     leia(cerveja)
@@ -43,7 +43,7 @@ Inicio
     escreval()
     escreval()
     
-    escreval("RELATÓRIO:  ")
+    escreval("RELATï¿½RIO:  ")
     escreval("Consumo  = R$  ", consumo:4:2)
     se consumo > 30.00 entao
        escreval("Insento de Couvert")
