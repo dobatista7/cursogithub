@@ -32,7 +32,7 @@ Inicio
     
     consumo<-(cerveja*5.00)+(refrigerante*3.00)+(espetinho*7.00)
     
-    se consumo > 30.00 entao
+    se consumo > 40.00 entao
        couvert<-0.00
     senao
        couvert<-4.00
