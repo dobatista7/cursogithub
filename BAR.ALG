@@ -43,7 +43,7 @@ Inicio
     escreval()
     escreval()
     
-    escreval("RELAT�RIO:  ")
+    escreval("RELATORIO:  ")
     escreval("Consumo  = R$  ", consumo:4:2)
     se consumo > 30.00 entao
        escreval("Insento de Couvert")
